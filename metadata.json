@@ -1,0 +1,6 @@
+{
+  "name": "Ilyas Grace Marquee",
+  "description": "A premium wedding & event marquee hall in Mardan, KPK, Pakistan. Offering grand halls, catering, decoration, and event management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
